@@ -1,6 +1,6 @@
 # Essay Baituzzakah Pertamina, Beasiswa BAZMA 2018, Schollarship Baituzzakah Pertamina
 
-Tema: Inilah Saya bagi keluarga dan kontribusi yang telah, sedang, serta akan saya berikan untuk indonesia.
+`Tema: Inilah Saya bagi keluarga dan kontribusi yang telah, sedang, serta akan saya berikan untuk indonesia.`
 
 kata kunci: peran saya bagi keluarga, 
 kontribusi yang telah, 
