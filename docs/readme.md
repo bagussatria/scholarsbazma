@@ -9,7 +9,7 @@ dan akan saya lakukan untuk masyarakat/lembaga/instansi/profesi komunitas saya
 Beasiswa Bazma Pertamina
 
 
-##Api Semangat  yang tak pernah padam
+## Api Semangat  yang tak pernah padam
 
 Essay ini ditujukan kepada BAITUZAKKAH PERTAMINA dalam program beasiswa Bazma Pertamina.
 
