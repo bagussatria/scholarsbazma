@@ -1,4 +1,4 @@
-# Essay Baituzzakah Pertamina, Beasiswa BAZMA 2018, Schollarship Baituzzakah Pertamina
+# Essay Baituzzakah Pertamina, Beasiswa BAZMA 2018, Scholarship Baituzzakah Pertamina
 
 `Tema: Inilah Saya bagi keluarga dan kontribusi yang telah, sedang, serta akan saya berikan untuk indonesia.`
 
