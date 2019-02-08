@@ -6,22 +6,52 @@ kata kunci: peran saya bagi keluarga,
 kontribusi yang telah, 
 sedang, 
 dan akan saya lakukan untuk masyarakat/lembaga/instansi/profesi komunitas saya
-
-1.Inilah saya bagi keluarga
-Assalamualaikum, wr. wb. saya mohon izin memperkenalkan diri. Nama saya Bagus Satria, lahir di jakarta  19 mei 1998. saya merupakan anak laki satu satunya dari 4 bersaudara. alhamdulillah dengan pondasi pendidikan islam diberikan kedua orang tua saya menjadikan saya orang yang kuat dan tabah dalam menjalani hidup. terlepas dari keterbatasan saya dalam kurang fasihnya pengucapan beberapa huruf tidak membuat saya malu untuk bersosialisasi. 
-
-saat ini, ayah saya bekerja sebagai pengurus kost-kost an milik orang lain. dan ibu saya ikut membantu dengan menjadi prt. saya malu, malu akan peran saya sebagai anak laki-laki dikeluarga saya yang tidak membantu secara signifikan dalam perekonomian keluarga saya.
-perasaan itu terus membayangi saya hingga saat ini, maka dari itu saya mencoba melamar pekerjaan dibeberpa instansi swasta, sembari terus meningkatkan potensi baik akademik maupun non akademik dengan terus memperkokoh nilai nilai keagamaan yang telah saya dapatkan. beberapa waktu lalu ibu saya memberikan buku ke saya. buku itu berjudul "Beasiswa 5 benua" karya A. Fuadi buku itu berisi tentang tanya jawab A. Fuadi dalam perjalanan hidupnya hingga bisa mendapat beasiswa bahkan dari beberapa benua.
-
-setelah saya membaca buku itu, saya masih tetap melamar pekerjaan. walaupun saya sadar saat ini saya mahasiswa reguler dengan jam belajar hampir fulltime. bagi saya, kedua orang tua saya merupakan api semangat abadi  yang tak akan pernah padam. 
-saya masih ingin terus belajar, tapi juga tak ingin terus menerus menjadi beban untuk keluarga, dari keinginan itu saya mencoba apply beasiswa diantaranya beasiswa ppa (peningkatan prestasi akademik). sambil terus membantu meringankan pekerjaan kedua orang tua saya. pada suatu kesempatan pihak kampus memberitahu tentang adanya Beasiswa Bazma Pertamina. Saat ini
-
-2.kontribusi yang telah saya berikan
-Saya berstatus sebagai mahasiswa aktif di Universitas Indraprasta PGRI dengan spesialisasi jurusan Informatika, dan pernah menjabat sebagai Divisi HPD (dokumentasi) pada UKM* Studi Kajian Riset Mahasiswa Universitas Indraprasta PGRI dan mengikuti English Club, English Corner setiap minggunya hingga sekarang.
-
-pada semester satu saya mempelajari algoritma yang mana algoritma itu sendiri adalah alur atau langkah  yang digunakan sebagai pondasi pembuatan flowchart dalam mengatasi masalah. sebagian teman saya mengatakan mata kuliah ini membosankan dan sukar untuk dipahami. dari pandangan tersebut saya mencoba aplikasi website sederhana yang kemudian saya beri nama Data Structure Algorithms Visualization yang saya singkat menjadi Dalgova. dan kini bisa diakses oleh publik secara bebas  (bit.ly/Dalgova).
-
-3.kontribusi yang sedang diberikan
-dilain waktu saya juga aktif melakukan diskusi dan membahas kesulitan ke
+Beasiswa Bazma Pertamina
 
 
+##Api Semangat  yang tak pernah padam
+
+Essay ini ditujukan kepada BAITUZAKKAH PERTAMINA dalam program beasiswa Bazma Pertamina.
+
+Assalamualaikum, wr. wb.
+Nama saya Bagus Satria ⁮biasa dipanggil agas. Saya lahir di jakarta pada tanggal 19 Mei 1998. anak ketiga dari empat bersaudara yang juga merupakan anak laki satu satunya dikeluarga saya. Ayah saya bernama Moh Waluyo dan ibu saya bernama Siti Asiah. 
+
+Ayah saya bekerja sebagai pengurus kost kostan milik orang lain dan ibu saya sebagai pembantu rumah tangga.
+
+saya memiliki keterbatasan dalam pengucapan beberapa huruf yang membuat pengucapan saya tidak begitu jelas. atau yang biasa disebut cadel, Namun kekurangan itu sama sekali tidak membuat saya malu untuk bersosialisasi.
+
+Saat ini peran saya bagi keluarga tidak terlalu signifikan terlebih dalam lingkup perekonomian keluarga saya. Dalam hal ini saya hanya bisa membantu meringankan pekerjaan kedua orang tua saya.
+
+Akan tetapi saya sangat ingin sekali dan berkontribusi dalam perekonomian keluarga saya. Terlebih saya merupakan anak laki satu satunya dan memiliki adik perempuan yang saat ini berada di tingkat pendidikan dasar.
+Saya mencoba melamar pekerjaan di beberapa lembaga swasta. Sambil terus meningkatkan potensi baik akademik maupun kemampuan dengan terus memperkuat nilai nilai keagamaan yang pernah saya dapat dari pengajian dan pendidikan.
+
+beberapa waktu lalu ibu saya memberikan buku ke saya. buku itu berjudul "Beasiswa 5 benua" karya A. Fuadi buku itu berisi tentang tanya jawab A. Fuadi dalam perjalanan hidupnya hingga bisa mendapat beasiswa bahkan dari beberapa benua.
+
+Saya sangat termotivasi dengan semua jawaban beliau. Sehingga saya mencoba apply beberapa beasiswa. 
+
+Saat ini
+Saya berstatus sebagai mahasiswa di Universitas Indraprasta PGRI dengan spesialisasi jurusan Informatika, dan pernah menjabat sebagai Divisi HPD (dokumentasi) pada Unit Kegiatan Mahasiswa Studi Kajian Riset Mahasiswa Universitas Indraprasta PGRI dan mengikuti English Club, English Corner setiap minggunya hingga sekarang.
+
+Saya sangat antusias terhadap ilmu teknologi dan informasi. yang setiap hari nya semakin berkembang.
+
+Berdasarkan pengalaman saya sebagai mahasiswa dan beberapa pertanyaan yang sering saya temui susahnya memahami Algoritma Pemrograman dilingkup mahasiswa informatika. 
+
+>Algoritma; alur, langkah atau proses dalam mengatasi sebuah masalah
+
+Dengan landasan itu, saya mencoba ikut berkontribusi dengan mencari beberapa data refrensi yang saya dapatkan dari visualgo net dan beberapa open source dari institusi luar negeri.
+
+Hingga akhirnya saya membuat situs pembelajaran algoritma berbasis web interaktif menggunakan media flash yang kemudian saya beri nama Data Structure Algorithms Visualization atau yang disingkat Dalgova, dan saat ini bisa di akses secara bebas untuk umum dengan mengunjungi [tautan](https://bagussatria.github.io/Dalgova) berikut. 
+
+Dilain waktu saya ikut andil dalam forum online lintas kampus mahasiswa sebagai moderator. Yang aktif membahas seputar Informasi Teknologi.
+
+Berdasarkan data informasi yang saya dapat pada situs [kominfo.go.id]( https://kominfo.go.id/content/detail/4286/pengguna-%20internet-indonesia-nomor-enam-dunia/0/sorotan_media) Pengguna Internet di Indonesia merupakan terbesar ke 6 di dunia. Dengan lebih dari 143 juta pengguna internet ditahun [2017]( https://ekonomi.kompas.com/read/2018/02/19/161115126/tahun-2017-pengguna-internet-di-indonesia-mencapai-14326-juta-orang) sehingga penyebaran informasi melalui internet merupakan cara yang sangat efektif.
+
+saya berencana membuat sebuah digital library untuk umum khususnya pelajar  yang berisi buku-buku menarik dalam arti interaktif dalam proses pembacaan nya. Sehingga daya baca masyarakat meningkat terutama dikalangan pelajar dan mahasiswa.
+
+Tentu semua itu tidak akan berjalan mudah. Saya masih harus banyak mencari ilmu dan mendapat pengarahan.
+
+Saya sangat berterima kasih jika berkesempatan untuk  dapat mengikuti pelatihan dari kakak-kakak pembina Baituzakkah Pertamina.
+
+Essay ini saya buat dengan sebenar-benarnya tanpa ada penambahan data fiktif. Dan dapat dipertanggung jawabkan kedepan nya.
+
+Terimakasih. Wassalamualaikum, wr. wb.
