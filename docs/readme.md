@@ -40,13 +40,13 @@ Berdasarkan pengalaman saya sebagai mahasiswa dan beberapa pertanyaan yang serin
 
 Dengan landasan itu, saya mencoba ikut berkontribusi dengan mencari beberapa data refrensi yang saya dapatkan dari visualgo net dan beberapa open source dari institusi luar negeri.
 
-Hingga akhirnya saya membuat situs pembelajaran algoritma berbasis web interaktif menggunakan media flash yang kemudian saya beri nama Data Structure Algorithms Visualization atau yang disingkat Dalgova, dan saat ini bisa di akses secara bebas untuk umum dengan mengunjungi [tautan](https://bagussatria.github.io/Dalgova) berikut. 
+Hingga akhirnya saya membuat situs pembelajaran algoritma berbasis web interaktif menggunakan media flash yang kemudian saya beri nama Data Structure Algorithms Visualization atau yang disingkat Dalgova sebagai kontribusi sederhana yang telah saya berikan, dan bisa di akses secara bebas untuk umum sekitar 2 bulan yang lalu dengan mengunjungi [tautan](https://bagussatria.github.io/Dalgova) berikut. 
 
-Dilain waktu saya ikut andil dalam forum online lintas kampus mahasiswa sebagai moderator. Yang aktif membahas seputar Informasi Teknologi.
+Kontribusi saya saat ini, aktif dan ikut andil dalam [forum online](https://web.facebook.com/groups/ProgramerIndonesia) lintas kampus mahasiswa maupun pelajar  sebagai moderator. Yang aktif membahas dan menjawab pertanyaan seputar program dan Informasi Teknologi.
 
 Berdasarkan data informasi yang saya dapat pada situs [kominfo.go.id]( https://kominfo.go.id/content/detail/4286/pengguna-%20internet-indonesia-nomor-enam-dunia/0/sorotan_media) Pengguna Internet di Indonesia merupakan terbesar ke 6 di dunia. Dengan lebih dari 143 juta pengguna internet ditahun [2017]( https://ekonomi.kompas.com/read/2018/02/19/161115126/tahun-2017-pengguna-internet-di-indonesia-mencapai-14326-juta-orang) sehingga penyebaran informasi melalui internet merupakan cara yang sangat efektif.
 
-saya berencana membuat sebuah digital library untuk umum khususnya pelajar  yang berisi buku-buku menarik dalam arti interaktif dalam proses pembacaan nya. Sehingga daya baca masyarakat meningkat terutama dikalangan pelajar dan mahasiswa.
+kontribusi yang akan saya rencana kan kedepan nya membuat sebuah digital library untuk umum khususnya pelajar  yang berisi buku-buku menarik dalam arti interaktif dalam proses pembacaan nya. Sehingga daya baca masyarakat meningkat terutama dikalangan pelajar dan mahasiswa.
 
 Tentu semua itu tidak akan berjalan mudah. Saya masih harus banyak mencari ilmu dan mendapat pengarahan.
 
